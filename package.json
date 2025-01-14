@@ -1,0 +1,56 @@
+{
+  "name": "quan-ly-thu-vien",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mui/x-charts": "^7.23.2",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "buffer": "^6.0.3",
+    "chart.js": "^4.4.7",
+    "crypt-vault": "^0.1.2",
+    "crypto-js": "^4.2.0",
+    "file-saver": "^2.0.5",
+    "fuse.js": "^7.0.0",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.7",
+    "react-chartjs-2": "^5.2.0",
+    "react-cookie": "^7.2.2",
+    "react-dom": "^18.3.1",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.0.2",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^11.0.2",
+    "redux": "^5.0.1",
+    "stream": "^0.0.3",
+    "web-vitals": "^2.1.4",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
